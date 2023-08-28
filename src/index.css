@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.experienceText {
+  border: 1px solid black;
+}
+.experienceText:hover {
+  border: 2px solid #4545d7;
+  color: #4545d7;
+  cursor: pointer;
+}
